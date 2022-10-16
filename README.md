@@ -14,7 +14,7 @@
 ## Repo Overview
 This is the main repo for contributing in Innovative apps.
 You can make PRs to upload your innovative apps in seperate folders.
-Other projects based on other are also appreciated. <br>
+Other projects based on web dev, ML, Blockchain, etc are also appreciated. <br>
 <b> Kindly make a new folder named ```Project{project_number} ``` in the main repo to do so </b>
 
 ## How to contribute 😃
