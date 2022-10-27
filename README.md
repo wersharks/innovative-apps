@@ -17,6 +17,9 @@ You can make PRs to upload your innovative apps in seperate folders.
 Other projects based on web dev, ML, Blockchain, etc are also appreciated. <br>
 <b> Kindly make a new folder named ```Project{project_number} ``` in the main repo to do so </b>
 
+## Project Listed:
+1. ishe (I shouldn't Hack EACCESS) - A network hacking project and proof-of-concept work!
+
 ## How to contribute 😃
 
 
